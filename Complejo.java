@@ -5,7 +5,7 @@ public class Complejo {
     private double real;
     private double imaginario;
 
-    // Constructor
+    // Constructor base
     public Complejo(double real, double imaginario) {
         this.real = real;
         this.imaginario = imaginario;
@@ -13,7 +13,9 @@ public class Complejo {
 
 
     public static void main(String[] args) {
-       
+
+
+
         
     }
 }
